@@ -7,4 +7,4 @@
 - 📷 As well as a hobby, I like to do photography, post-processing, and I also do video editing.
 - 💌 You may reach out to me via email, which you can find a nearby profile description.
 
-![d3adwolf's Github stats](https://github-readme-stats.vercel.app/api?username=d3adwolf&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![d3adwolf's Github stats](https://github-readme-stats.vercel.app/api?username=d3adwolf&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
