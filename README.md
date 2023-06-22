@@ -5,7 +5,7 @@
 
 - 🐧 I am also interested in Linux administration and continue to improve my knowledge.
 
-- 📨 How to contact me dmitrii.zagorodnev@outlook.com
+- 📨 How to contact me **dmitrii.zagorodnev@outlook.com**
 
 - 🪴 I like minimalism, so my README is not that detailed. ^^
 
