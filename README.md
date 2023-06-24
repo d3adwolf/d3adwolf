@@ -7,7 +7,7 @@
 
 - 📨 How to contact me **dmitrii.zagorodnev@outlook.com**
 
-- 🪴 I like minimalism, so my README is not that detailed. ^^
+- 🪴 I like minimalism, so my README is not that detailed.
 
 <br>
 
