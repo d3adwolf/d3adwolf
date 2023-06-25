@@ -2,11 +2,8 @@
 <h1></h1>
 
 - 🐳 I try to learn virtualization, containerization and orchestration on a daily basis.
-
 - 🐧 I am also interested in Linux administration and continue to improve my knowledge.
-
 - 📨 How to contact me **dmitrii.zagorodnev@outlook.com**
-
 - 🪴 I like minimalism, so my README is not that detailed.
 
 <br>
