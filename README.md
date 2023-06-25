@@ -6,6 +6,4 @@
 - 📨 How to contact me **dmitrii.zagorodnev@outlook.com**
 - 🪴 I like minimalism, so my README is not that detailed.
 
-<br>
-
 ![d3adwolf's Github stats](https://github-readme-stats.vercel.app/api?username=d3adwolf&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
