@@ -14,6 +14,7 @@
 <img align="left" alt="Kubernetes" height="26px" src="https://cdn.simpleicons.org/kubernetes/666666" />
 <img align="left" alt="Docker" height="26px" src="https://cdn.simpleicons.org/docker/666666" />
 <img align="left" alt="Terraform" height="26px" src="https://cdn.simpleicons.org/terraform/666666" />
+<img align="left" alt="Ansible" height="26px" src="https://cdn.simpleicons.org/ansible/666666" />
 <img align="left" alt="GitHub" height="26px" src="https://cdn.simpleicons.org/github/666666" />
 <img align="left" alt="Nginx" height="26px" src="https://cdn.simpleicons.org/nginx/666666" />
 <img align="left" alt="Prometheus" height="26px" src="https://cdn.simpleicons.org/prometheus/666666" />
