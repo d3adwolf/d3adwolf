@@ -1,13 +1,13 @@
 ### Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"> I'm **Dmitrii**, mainly interested in administering servers and Unix systems.
 <h1></h1>
 
+- 🐧 I am interested in Linux administration and continue to improve my knowledge.
 - 🐳 I try to learn virtualization, containerization and orchestration on a daily basis.
-- 🐧 I am also interested in Linux administration and continue to improve my knowledge.
-- ✨ You can check out my Stars, I try to keep useful tools in my specialty.
-- 📨 How to contact me **dmitrii.zagorodnev@outlook.com**
+- ✨ You can check out my Stars, I try to keep useful tools in my specialization.
 - 🪴 I like minimalism, so my README is not that detailed.
+- 📨 How to contact me: `@dmitrii_zagorodnev`
 
-![d3adwolf's Github stats](https://github-readme-stats.vercel.app/api?username=d3adwolf&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
+![d3adwolf's Github stats](https://github-readme-stats.vercel.app/api?username=d3adwolf&show_icons=true&hide_border=true&count_private=true&theme=transparent&text_color=ffffff&icon_color=666666&title_color=666666)
 
 ### Languages and Tools:
 
