@@ -7,7 +7,7 @@
 - 🪴 I like minimalism, so my README is not that detailed.
 - 📨 How to contact me: `@dmitrii_zagorodnev`
 
-![d3adwolf's Github stats](https://github-readme-stats.vercel.app/api?username=d3adwolf&show_icons=true&hide_border=true&count_private=true&theme=transparent&text_color=ffffff&icon_color=666666&title_color=666666)
+![d3adwolf's Github stats](https://github-readme-stats.vercel.app/api?username=d3adwolf&show_icons=true&hide_border=true&count_private=true&theme=transparent&text_color=fafbfc&icon_color=666666&title_color=666666)
 
 ### Languages and Tools:
 
