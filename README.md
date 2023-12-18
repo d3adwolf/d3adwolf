@@ -11,15 +11,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Kubernetes" height="30px" src="https://cdn.simpleicons.org/kubernetes/666666" />
-<img align="left" alt="Docker" height="30px" src="https://cdn.simpleicons.org/docker/666666" />
-<img align="left" alt="Terraform" height="30px" src="https://cdn.simpleicons.org/terraform/666666" />
-<img align="left" alt="Ansible" height="30px" src="https://cdn.simpleicons.org/ansible/666666" />
-<img align="left" alt="GitHub" height="30px" src="https://cdn.simpleicons.org/github/666666" />
-<img align="left" alt="Nginx" height="30px" src="https://cdn.simpleicons.org/nginx/666666" />
-<img align="left" alt="Prometheus" height="30px" src="https://cdn.simpleicons.org/prometheus/666666" />
-<img align="left" alt="InfluxDB" height="30px" src="https://cdn.simpleicons.org/influxdb/666666" />
-<img align="left" alt="Grafana" height="30px" src="https://cdn.simpleicons.org/grafana/666666" />
-<img align="left" alt="Kibana" height="30px" src="https://cdn.simpleicons.org/kibana/666666" />
-<img align="left" alt="Visual Studio Code" height="30px" src="https://cdn.simpleicons.org/visualstudiocode/666666" />
-<img align="left" alt="Proxmox" height="30px" src="https://cdn.simpleicons.org/proxmox/666666" />
+<img align="left" alt="Kubernetes" height="28px" src="https://cdn.simpleicons.org/kubernetes/666666" />
+<img align="left" alt="Docker" height="28px" src="https://cdn.simpleicons.org/docker/666666" />
+<img align="left" alt="Terraform" height="28px" src="https://cdn.simpleicons.org/terraform/666666" />
+<img align="left" alt="Ansible" height="28px" src="https://cdn.simpleicons.org/ansible/666666" />
+<img align="left" alt="GitHub" height="28px" src="https://cdn.simpleicons.org/github/666666" />
+<img align="left" alt="Nginx" height="28px" src="https://cdn.simpleicons.org/nginx/666666" />
+<img align="left" alt="Prometheus" height="28px" src="https://cdn.simpleicons.org/prometheus/666666" />
+<img align="left" alt="InfluxDB" height="28px" src="https://cdn.simpleicons.org/influxdb/666666" />
+<img align="left" alt="Grafana" height="28px" src="https://cdn.simpleicons.org/grafana/666666" />
+<img align="left" alt="Kibana" height="28px" src="https://cdn.simpleicons.org/kibana/666666" />
+<img align="left" alt="Visual Studio Code" height="28px" src="https://cdn.simpleicons.org/visualstudiocode/666666" />
+<img align="left" alt="Proxmox" height="28px" src="https://cdn.simpleicons.org/proxmox/666666" />
