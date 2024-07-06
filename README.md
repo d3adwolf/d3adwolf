@@ -21,5 +21,5 @@
 <img align="left" alt="InfluxDB" height="28px" src="https://cdn.simpleicons.org/influxdb/666666" />
 <img align="left" alt="Grafana" height="28px" src="https://cdn.simpleicons.org/grafana/666666" />
 <img align="left" alt="Kibana" height="28px" src="https://cdn.simpleicons.org/kibana/666666" />
-<img align="left" alt="Visual Studio Code" height="28px" src="https://cdn.simpleicons.org/visualstudiocode/666666" />
+<img align="left" alt="Visual Studio Code" height="28px" src="https://cdn.simpleicons.org/vscode/666666" />
 <img align="left" alt="Proxmox" height="28px" src="https://cdn.simpleicons.org/proxmox/666666" />
