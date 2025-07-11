@@ -11,12 +11,14 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Kubernetes" height="28px" src="https://cdn.simpleicons.org/kubernetes/585859" />
-<img align="left" alt="Docker" height="28px" src="https://cdn.simpleicons.org/docker/585859" />
-<img align="left" alt="Terraform" height="28px" src="https://cdn.simpleicons.org/terraform/585859" />
-<img align="left" alt="Ansible" height="28px" src="https://cdn.simpleicons.org/ansible/585859" />
-<img align="left" alt="GitHub" height="28px" src="https://cdn.simpleicons.org/gitlab/585859" />
-<img align="left" alt="Nginx" height="28px" src="https://cdn.simpleicons.org/nginx/585859" />
-<img align="left" alt="Prometheus" height="28px" src="https://cdn.simpleicons.org/prometheus/585859" />
-<img align="left" alt="Grafana" height="28px" src="https://cdn.simpleicons.org/grafana/585859" />
-<img align="left" alt="Proxmox" height="28px" src="https://cdn.simpleicons.org/proxmox/585859" />
+<p>
+  <img alt="Kubernetes" height="28px" src="https://cdn.simpleicons.org/kubernetes/585859" style="margin-right:10px;" />
+  <img alt="Docker" height="28px" src="https://cdn.simpleicons.org/docker/585859" style="margin-right:10px;" />
+  <img alt="Terraform" height="28px" src="https://cdn.simpleicons.org/terraform/585859" style="margin-right:10px;" />
+  <img alt="Ansible" height="28px" src="https://cdn.simpleicons.org/ansible/585859" style="margin-right:10px;" />
+  <img alt="GitHub" height="28px" src="https://cdn.simpleicons.org/gitlab/585859" style="margin-right:10px;" />
+  <img alt="Nginx" height="28px" src="https://cdn.simpleicons.org/nginx/585859" style="margin-right:10px;" />
+  <img alt="Prometheus" height="28px" src="https://cdn.simpleicons.org/prometheus/585859" style="margin-right:10px;" />
+  <img alt="Grafana" height="28px" src="https://cdn.simpleicons.org/grafana/585859" style="margin-right:10px;" />
+  <img alt="Proxmox" height="28px" src="https://cdn.simpleicons.org/proxmox/585859" />
+</p>
